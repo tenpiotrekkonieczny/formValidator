@@ -1,0 +1,25 @@
+{
+	"name": "formvalidator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"lint": "eslint ./main.js",
+		"lint:fix": "eslint --fix ./main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tenpiotrekkonieczny/formValidator.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tenpiotrekkonieczny/formValidator/issues"
+	},
+	"homepage": "https://github.com/tenpiotrekkonieczny/formValidator#readme",
+	"devDependencies": {
+		"eslint": "^8.23.1",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.26.0"
+	}
+}
