@@ -101,7 +101,6 @@ h1 {
 	background-color: #fff;
 	border-radius: 8px;
 	border: 1px solid black;
-	transition: top 0.5s;
 }
 
 .popup p {
@@ -112,6 +111,6 @@ h1 {
 	margin-top: 20px;
 }
 
-.schow-popup {
+.show-popup {
 	top: 50%;
 }
